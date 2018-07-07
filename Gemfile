@@ -7,7 +7,7 @@ ruby '2.5.0'
 gem 'rails', '~> 5.2.0'
 gem 'carrierwave'
 gem 'mini_magick'
-gem 'fog-aws'
+gem 'fog'
 
 gem 'devise'
 gem 'twitter-bootstrap-rails'
